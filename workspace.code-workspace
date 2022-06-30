@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Верстка"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Верстка - копия"
+    }
+}
